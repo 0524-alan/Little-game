@@ -1,7 +1,0 @@
-void appleG(){
-
-  
-}
-void appleGClick(){
-
-}
